@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#first-paragraph {
+    color: #04747c;
+    background-color: #f7e99b;
+    font-style: italic;
+    text-align: center;
+}
+
+#second-paragraph {
+    color: #ec4cb7;
+    background-color: #d4d4ff;
+    font-size: 21px;
+    text-decoration: underline;
+}
+
+#bold-paragraph {
+    font-weight: bold;
+    background-color: #a9f7a9;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+    'Lucida Sans', Arial, sans-serif;
+}
+
+#span1 {
+    color:#ec4cb7;
+    font-size: 33px;
+    font-style: italic;
+}
+
+#span2 {
+    font-weight: bold;
+}
+
+#span3 {
+    color:#04747c;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#span4 {
+    color:rgb(101, 47, 163);
+    background-color: yellow;
+    text-align: center;
+    text-decoration: underline;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
