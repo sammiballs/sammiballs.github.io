@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#color-palette-1 {
+    font-family: lucida sans;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#color-1 {
+    background-color: #247ba0;
+    color: white;
+    font-family: lucida sans;
+    text-align: center;
+    padding: 24px;
+}
+
+#color-2 {
+    background-color: #70C1B3;
+    color: black;
+    font-family: lucida sans;
+    text-align: center;
+    padding: 24px;
+}
+
+#color-3 {
+    background-color: #B2DBBF;
+    color: black;
+    font-family: lucida sans;
+    text-align: center;
+    padding: 24px;
+}
+
+#color-palette-2 {
+    font-family: lucida sans;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#color2-1 {
+    background-color: #4D9DE0;
+    color: white;
+    font-family: lucida sans;
+    text-align: center;
+    padding: 24px;
+}
+
+#color2-2 {
+    background-color: #E15554;
+    color: black;
+    font-family: lucida sans;
+    text-align: center;
+    padding: 24px;
+}
+
+#color2-3 {
+    background-color: #E1BC29;
+    color: black;
+    font-family: lucida sans;
+    text-align: center;
+    padding: 24px;
+}
+
+#color-palette-3 {
+    font-family: lucida sans;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#color3-1 {
+    background-color: #D7F2BA;
+    color: black;
+    font-family: lucida sans;
+    text-align: center;
+    padding: 24px;
+}
+
+#color3-2 {
+    background-color: #BDE4A8;
+    color: black;
+    font-family: lucida sans;
+    text-align: center;
+    padding: 24px;
+}
+
+#color3-3 {
+    background-color: #9CC69E;
+    color: black;
+    font-family: lucida sans;
+    text-align: center;
+    padding: 24px;
+}
