@@ -6,3 +6,18 @@ body {
     margin: 0px;
     font-family: sans-serif;
 }
+
+.band-one {
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+  border: 15px;
+  padding: 10px;
+  background-color: black;
+  align-items: center;
+}
+
+img.band-three {
+  width: 150px;
+  height: 150px;
+}

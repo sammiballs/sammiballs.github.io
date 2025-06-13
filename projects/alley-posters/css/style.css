@@ -1,0 +1,17 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the assignment.
+
+    Good luck, and have fun!
+*/
+.band-one {
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+  border:10px;
+  padding:5px;
+  background-color: black;
+}
+
