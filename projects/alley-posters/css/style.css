@@ -7,34 +7,33 @@
     Good luck, and have fun!
 */
 .band-one {
-  width: 150px;
-  height: 150px;
-  margin: 5px;
-  border:15px;
-  padding: 10px;
-  background-color: black;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    border: 15px;
+    padding: 10px;
+    background-color: black;
 }
 .band-two {
-  width: 150px;
-  height: 150px;
-  margin: 5px;
-  border:15px;
-  padding:10px;
-  background-color: black;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    border: 15px;
+    padding: 10px;
+    background-color: black;
 }
 .band-three {
-  width: 150px;
-  height: 150px;
-  margin: 5px;
-  border:15px;
-  padding:10px;
-  background-color: black;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    border: 15px;
+    padding: 10px;
+    background-color: black;
 }
 
 h1 {
-  color: black;
-  font-weight: bold;
-  font-size: 32px;
-  text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
 }
-
