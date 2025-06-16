@@ -16,8 +16,12 @@ body {
   background-color: black;
   align-items: center;
 }
-
-img.band-three {
-  width: 150px;
-  height: 150px;
+.band-two {
+  width: 25px;
+  height: 75px;
+  margin: 25px;
+  border: 25px;
+  padding: 25px;
+  background-color: black;
+  align-items: right;
 }
