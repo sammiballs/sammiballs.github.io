@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+.gray-container {
+    background-color: lightgray;
+    padding: 48px 0px;
+}
+
+.pink-container {
+    background-color: pink;
+    padding: 48px 0px;
+}
+#coke-zero {
+    width: 45%;
+}
+.single-column {
+    width:600px;
+    margin: 0px;
+    text-align: center;
+}
